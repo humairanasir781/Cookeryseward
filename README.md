@@ -4,7 +4,7 @@ A modern, high-end restaurant website design built with pure HTML, CSS, and mini
 
 ✨ **Overview**
 
-**Live Preview:** 
+**Live Preview:** https://humairanasir781.github.io/Cookeryseward/
 
 This is a fully responsive, single-page restaurant website designed to represent a premium seafood and oyster bar brand. The layout emphasizes elegance, readability, and user engagement.
 
